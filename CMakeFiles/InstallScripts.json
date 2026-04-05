@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/sakethkantipudi/neuroh5/cmake_install.cmake",
-		"/Users/sakethkantipudi/neuroh5/python/neuroh5/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
